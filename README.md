@@ -1,7 +1,7 @@
-# SAST-TI
+# SAST-TI 网页第二版
 
-ZJU SAST 科创人格探索网页。
+网页版本：v0.2；题库：v1.2。
 
-在线体验：https://xiao-yu-gg.github.io/sast-ti/
+公开网站：https://xiao-yu-gg.github.io/sast-ti/
 
-本仓库为第一版已构建的静态发布文件；网页通过 GitHub Pages 发布。测试与图鉴记录保存在访问者自己的浏览器中。
+浙江大学学生科学技术协会科创人格探索产品。本仓库保存已构建的静态文件，通过 main 分支根目录发布。历史结果与图鉴保存在访问者自己的浏览器中。
